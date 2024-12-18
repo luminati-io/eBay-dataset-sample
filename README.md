@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 eBay products</h2>
 
-![eBay products dataset header](https://github.com/luminati-io/Home-Depot-dataset-sample/blob/main/Home-Depot-datasets.png)
+![eBay products dataset header](https://github.com/luminati-io/eBay-dataset-sample/blob/main/eBay-dataset.png)
 
 A eBay products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
